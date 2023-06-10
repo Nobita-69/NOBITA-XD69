@@ -453,7 +453,7 @@ def crack(idf,pwv):
 			time.sleep(31)
 	loop+=1
 
-def RNOBITA-XD():
+def RMX():
   os.system('clear')
   banner()
   uuid = str(os.geteuid()) + str(os.getlogin())
@@ -487,5 +487,5 @@ if __name__=='__main__':
     except:pass
     try:os.system('touch .prox.txt')
     except:pass
-    RNOBITA-XD()
+    RMX-XD()
 
